@@ -40,7 +40,7 @@ I prefer practical, hands-on learning and steady improvement over time.
 
 ## Reach Out
 <p align="left">
-  <a href="www.linkedin.com/in/jaya-sri-vardhan-samgoju" target="_blank">
+  <a href="https://www.linkedin.com/in/jaya-sri-vardhan-samgoju" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:srivardhansamgoju@gmail.com">
