@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?size=22&duration=2500&pause=1000&color=333333&center=true&vCenter=true&width=600&lines=Jaya+Sri+Vardhan+Samgoju;AI+Engineer+Enthusiast;Machine+Learning+Practitioner;Deep+Learning+Practitioner;Exploring+NLP+and+LLMs">
+  <img src="https://readme-typing-svg.demolab.com?size=22&duration=2500&pause=1000&color=2E7D32&center=true&vCenter=true&width=600&lines=Jaya+Sri+Vardhan+Samgoju;AI+Engineer+Enthusiast;Machine+Learning+Practitioner;Deep+Learning+Practitioner;Exploring+NLP+and+LLMs">
 </p>
 
 
