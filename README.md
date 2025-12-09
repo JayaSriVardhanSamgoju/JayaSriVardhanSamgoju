@@ -1,6 +1,6 @@
 <h1 align="center">I'm Jaya Sri Vardhan Samgoju — I Learn, Build, and Evolve</h1>
 <h3 align="center">AI Engineer Enthusiast | Machine Learning | NLP & LLMs | Deep Learning</h3>
----
+
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?size=22&duration=2500&pause=1200&color=2E7D32&center=true&vCenter=true&width=650&lines=I'm+Jaya+Sri+Vardhan+Samgoju;AI+Engineer+Enthusiast;Machine+Learning+Practitioner;Deep+Learning+Explorer;Interested+in+NLP+and+LLMs">
 </p>
