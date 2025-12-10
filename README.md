@@ -46,9 +46,8 @@ I prefer practical, hands-on learning and steady improvement over time.
   <a href="mailto:srivardhansamgoju@gmail.com">
     <img src="https://img.shields.io/badge/Email-C62828?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://YOUR-PORTFOLIO-LINK" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-4E4E4E?style=for-the-badge&logo=google-chrome&logoColor=white" />
-  </a>
+
+
 </p>
 
 
