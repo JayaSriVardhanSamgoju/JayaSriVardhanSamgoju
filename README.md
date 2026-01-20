@@ -1,71 +1,98 @@
-<h1 align="center">I'm Jaya Sri Vardhan Samgoju</h1>
+<h1 align="center">👋 Jaya Sri Vardhan Samgoju</h1>
+
 <h3 align="center">
-AI Engineer Enthusiast | Machine Learning | NLP & LLMs | Deep Learning
+🤖 Aspiring AI Engineer | Machine Learning | NLP & LLMs | Deep Learning
 </h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?size=22&duration=2500&pause=1200&color=2E7D32&center=true&vCenter=true&width=650&lines=Jaya+Sri+Vardhan+Samgoju;AI+Engineer+Enthusiast;Machine+Learning+Practitioner;Deep+Learning+Explorer;NLP+and+LLMs+Learner">
+  <img src="https://readme-typing-svg.demolab.com?size=22&duration=2500&pause=1200&color=4CAF50&center=true&vCenter=true&width=750&lines=Jaya+Sri+Vardhan+Samgoju;Aspiring+AI+Engineer;Machine+Learning+%7C+Deep+Learning;NLP+%7C+Transformers+%7C+LLMs;Building+AI+Systems+End-to-End">
 </p>
 
 ---
 
-## About Me
-I am **Jaya Sri Vardhan Samgoju**, a Computer Science undergraduate with a strong interest in **AI Engineering**.  
-My learning approach is **fundamentals-first**, followed by **hands-on implementation through real-world projects**.
+## 🧠 My AI Mindset
 
-I actively work with **Machine Learning, Deep Learning, NLP, and LLM-based systems**, focusing on understanding both the **theory and practical deployment aspects** of AI systems.
+> *"From raw data to deployed intelligence — I believe in understanding every layer of an AI system."*
 
----
+I am a **Computer Science undergraduate** with a clear goal of becoming a **professional AI Engineer**.  
+My approach is **fundamentals-first**, followed by **hands-on, end-to-end implementation**.
 
-## Current Focus Areas
-- Strengthening core **Machine Learning and Deep Learning fundamentals**
-- Studying **NLP, Transformers, and Large Language Models**
-- Building **end-to-end AI mini-projects** to reinforce concepts
-- Practicing **Data Structures & Algorithms using Java**
+I focus not only on training models, but also on:
+- Data preprocessing pipelines  
+- Model evaluation & interpretation  
+- Practical deployment using lightweight frameworks  
 
 ---
 
-## Tech Stack
-**Languages:** Python, Java  
-**Machine Learning:** Scikit-Learn, TensorFlow  
-**NLP & LLMs:** Hugging Face, Transformers  
-**Tools & Platforms:** Git, GitHub, VS Code, Streamlit  
+## 🛠️ Tech Stack & Arsenal
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,java,tensorflow,git,github,vscode" />
+</p>
+
+**Core Skills**
+- **Programming:** Python, Java  
+- **Machine Learning:** Scikit-learn  
+- **Deep Learning:** TensorFlow  
+- **NLP & LLMs:** Hugging Face, Transformers  
+- **Deployment:** Streamlit  
+- **Tools:** Git, GitHub, VS Code  
 
 ---
 
-## Selected Projects
-- **Disease Prediction Web Application**  
-- **NLP-Based Sentiment Analysis System**  
-- **News Topic Classification Model**  
-- **Phishing URL Detection System**
+## 📊 GitHub Stats & Grind
 
-Each project reflects my focus on **data preprocessing, model building, evaluation, and simple deployment**.
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=JayaSriVardhanSamgoju&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=JayaSriVardhanSamgoju&theme=tokyonight&hide_border=true" width="48%" />
+</p>
 
----
-
-## Daily GitHub Activity
-- Regular **code commits and refinements**
-- Consistent **project-based learning and experimentation**
-- Writing clean, structured, and documented code
-- Incremental improvement of existing repositories
-- Exploring new concepts and validating them through practice
-
-I aim to maintain **steady and visible progress** through continuous contributions.
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JayaSriVardhanSamgoju&layout=compact&theme=tokyonight&hide_border=true" width="50%" />
+</p>
 
 ---
 
-## Connect With Me
+## 🚀 Epic Projects & Builds
+
+🧠 **NLP Sentiment Analysis System**  
+> Text preprocessing, feature extraction, and supervised learning
+
+🎣 **Phishing URL Detection System**  
+> Feature engineering + classification to detect malicious URLs
+
+Each project emphasizes **clean pipelines, evaluation, and real-world relevance**.
+
+---
+
+## 🎯 Current Mission & Roadmap
+
+🔹 **Grinding Now**
+- Strengthening ML & DL theory  
+- Mastering NLP pipelines & Transformers  
+  
+
+🔹 **Next-Level Goals**
+- LLM fine-tuning & inference optimization  
+- Explainable AI (XAI)  
+- Agent-based AI systems  
+- Scalable ML pipelines  
+
+---
+
+## 🤝 Let’s Connect
+
 <p align="left">
   <a href="https://www.linkedin.com/in/jaya-sri-vardhan-samgoju" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="mailto:srivardhansamgoju@gmail.com">
-    <img src="https://img.shields.io/badge/Email-C62828?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Email-C62828?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
 
 ---
 
 <p align="center">
-<b>Consistent learning. Practical building. Progress toward AI Engineering.</b>
+  <b>Learn deeply • Build practically • Grow consistently toward AI Engineering</b>
 </p>
