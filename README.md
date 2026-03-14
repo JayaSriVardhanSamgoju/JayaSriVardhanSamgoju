@@ -246,19 +246,153 @@ classification models.
 <!-- ======================= LEARNING ROADMAP ======================= -->
 ## 🗺️ AI Engineering Roadmap
 
-```mermaid
-graph LR
-    A[📐 Math & Stats] --> B[🐍 Python Mastery]
-    B --> C[📊 ML Fundamentals]
-    C --> D[🧠 Deep Learning]
-    D --> E[📝 NLP & Transformers]
-    E --> F[🤖 LLMs & GenAI]
-    F --> G[🚀 Production AI]
+<p align="center">
+  <img src="https://mermaid.ink/img/Z3JhcGggTFIKICAgIEFb8J-TkCBNYXRoICYgU3RhdHNdIC0tPiBCW/CfjI0gUHl0aG9uIE1hc3RlcnldCiAgICBCIC0tPiBDW/Cfk4ogTUwgRnVuZGFtZW50YWxzXQogICAgQyAtLT4gRFvwn6eBIERlZXAgTGVhcm5pbmddCiAgICBEIC0tPiBFW/CfjicgTkxQICYgVHJhbnNmb3JtZXJzXQogICAgRSAtLT4gRlvwn6SWIExMTXMgJiBHZW5BSV0KICAgIEYgLS0-IEdb8J-agCBQcm9kdWN0aW9uIEFJXQoKICAgIHN0eWxlIEEgZmlsbDojMWExYjI3LHN0cm9rZTojNThhNmZmLGNvbG9yOiNmZmYKICAgIHN0eWxlIEIgZmlsbDojMWExYjI3LHN0cm9rZTojNThhNmZmLGNvbG9yOiNmZmYKICAgIHN0eWxlIEMgZmlsbDojMWExYjI3LHN0cm9rZTojNThhNmZmLGNvbG9yOiNmZmYKICAgIHN0eWxlIEQgZmlsbDojMWExYjI3LHN0cm9rZTojNThhNmZmLGNvbG9yOiNmZmYKICAgIHN0eWxlIEUgZmlsbDojMWExYjI3LHN0cm9rZTojZmY2ZTQwLGNvbG9yOiNmZmYKICAgIHN0eWxlIEYgZmlsbDojMWExYjI3LHN0cm9rZTojZmY2ZTQwLGNvbG9yOiNmZmYKICAgIHN0eWxlIEcgZmlsbDojMWExYjI3LHN0cm9rZTojZmY2ZTQwLGNvbG9yOiNmZmY?type=png&bgColor=0d1117" alt="AI Roadmap" width="90%"/>
+</p>
 
-    style A fill:#1a1b27,stroke:#58a6ff,color:#fff
-    style B fill:#1a1b27,stroke:#58a6ff,color:#fff
-    style C fill:#1a1b27,stroke:#58a6ff,color:#fff
-    style D fill:#1a1b27,stroke:#58a6ff,color:#fff
-    style E fill:#1a1b27,stroke:#ff6e40,color:#fff
-    style F fill:#1a1b27,stroke:#ff6e40,color:#fff
-    style G fill:#1a1b27,stroke:#ff6e40,color:#fff
+<div align="center">
+
+| Phase | Area | Status |
+|:-----:|:-----|:------:|
+| ✅ | Python & Core Programming | **Completed** |
+| ✅ | Data Analysis & Visualization | **Completed** |
+| ✅ | Machine Learning Fundamentals | **Completed** |
+| 🔄 | Deep Learning & Neural Networks | **In Progress** |
+| 🔄 | NLP, Transformers & LLMs | **In Progress** |
+| 📋 | MLOps & Production Deployment | **Planned** |
+| 📋 | GenAI & Advanced LLM Apps | **Planned** |
+
+</div>
+
+---
+
+<!-- ======================= CURRENT FOCUS ======================= -->
+## 🎯 What I'm Up To
+
+<div align="center">
+<table>
+<tr>
+<td>
+╔══════════════════════════════════════════════════════════════╗
+║ ║
+║ 📖 Learning → Transformers Architecture Deep-Dive ║
+║ 🔨 Building → LLM-Powered Q&A Application ║
+║ 📝 Practicing → DSA in Java (Daily Problems) ║
+║ 🎯 Goal → AI Engineer Role by 2025 ║
+║ ║
+╚══════════════════════════════════════════════════════════════╝
+
+</td>
+</tr>
+</table>
+</div>
+
+---
+
+<!-- ======================= SNAKE ANIMATION ======================= -->
+## 🐍 Contribution Snake
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/JayaSriVardhanSamgoju/JayaSriVardhanSamgoju/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/JayaSriVardhanSamgoju/JayaSriVardhanSamgoju/output/github-snake.svg" />
+    <img alt="Snake animation" src="https://raw.githubusercontent.com/JayaSriVardhanSamgoju/JayaSriVardhanSamgoju/output/github-snake-dark.svg" />
+  </picture>
+</p>
+
+<!--
+============================================================
+TO ACTIVATE SNAKE ANIMATION:
+1. Go to your profile repo: JayaSriVardhanSamgoju/JayaSriVardhanSamgoju
+2. Create file: .github/workflows/snake.yml
+3. Paste this content:
+
+name: Generate Snake Animation
+on:
+  schedule:
+    - cron: "0 */12 * * *"
+  workflow_dispatch:
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - name: Generate Snake
+        uses: Platane/snk@v3
+        with:
+          github_user_name: JayaSriVardhanSamgoju
+          outputs: |
+            dist/github-snake.svg
+            dist/github-snake-dark.svg?palette=github-dark
+      - name: Deploy
+        uses: crazy-max/ghaction-github-pages@v3.1.0
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+4. Go to Actions tab and run the workflow manually once.
+============================================================
+-->
+
+---
+
+<!-- ======================= DAILY QUOTE ======================= -->
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" width="70%"/>
+</p>
+
+---
+
+<!-- ======================= CONNECT ======================= -->
+## 🤝 Let's Connect
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/jaya-sri-vardhan-samgoju" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  &nbsp;
+  <a href="mailto:srivardhansamgoju@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+  </a>
+  &nbsp;
+  <a href="https://github.com/JayaSriVardhanSamgoju" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+</p>
+
+<br/>
+
+<div align="center">
+<table>
+<tr>
+<td>
+╔═══════════════════════════════════════════════════════════╗
+║ ║
+║ 💼 Open to AI/ML Internships & Entry-Level Roles ║
+║ 🤝 Open to Collaborate on AI/ML Open Source Projects ║
+║ 📬 Drop a message — always happy to connect! ║
+║ ║
+╚═══════════════════════════════════════════════════════════╝
+
+</td>
+</tr>
+</table>
+</div>
+
+---
+
+<!-- ======================= SUPPORT ======================= -->
+<p align="center">
+  <b>If you find my work helpful, consider giving a ⭐ to my repositories!</b>
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=4000&pause=2000&color=58A6FF&center=true&vCenter=true&width=500&lines=%22The+best+way+to+predict+the+future+is+to+build+it.%22;%22Stay+hungry%2C+stay+foolish.%22;%22Code+%E2%80%A2+Learn+%E2%80%A2+Build+%E2%80%A2+Repeat%22" />
+</p>
+
+<!-- ======================= FOOTER ======================= -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=150&section=footer&animation=twinkling"/>
+</p>
