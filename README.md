@@ -29,7 +29,7 @@
 
 ## 🧑‍💻 About Me
 
-```yaml
+
 Name:       Jaya Sri Vardhan Samgoju
 Role:       Aspiring AI Engineer
 Education:  B.Tech in Computer Science
