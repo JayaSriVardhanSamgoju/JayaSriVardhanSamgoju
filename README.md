@@ -1,209 +1,208 @@
-<!-- ======================= HEADER ======================= -->
-<div align="center">
+<!-- ======================= HEADER BANNER ======================= -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=250&section=header&text=Jaya%20Sri%20Vardhan%20Samgoju&fontSize=36&fontColor=fff&animation=twinkling&fontAlignY=35&desc=AI%20Engineer%20Aspirant%20%7C%20ML%20%7C%20NLP%20%7C%20LLMs&descAlignY=55&descSize=18"/>
+</p>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:1F6FEB,100:58A6FF&height=220&section=header&text=Jaya%20Sri%20Vardhan%20Samgoju&fontSize=40&fontColor=ffffff&fontAlignY=38&desc=AI%20%26%20Full-Stack%20Engineer%20%7C%20LLM%20Systems%20%7C%20Agentic%20RAG&descAlignY=58&descSize=17" width="100%"/>
+<!-- ======================= PROFILE BADGES ======================= -->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=JayaSriVardhanSamgoju&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
+  &nbsp;
+  <a href="https://github.com/JayaSriVardhanSamgoju?tab=followers">
+    <img src="https://img.shields.io/github/followers/JayaSriVardhanSamgoju?label=Followers&style=for-the-badge&color=236ad3&labelColor=1155ba"/>
+  </a>
+  &nbsp;
+  <a href="https://github.com/JayaSriVardhanSamgoju">
+    <img src="https://img.shields.io/github/stars/JayaSriVardhanSamgoju?label=Stars&style=for-the-badge&color=f5c842&labelColor=d4a017"/>
+  </a>
+</p>
 
-<a href="https://github.com/JayaSriVardhanSamgoju">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3200&pause=1000&color=58A6FF&center=true&vCenter=true&width=760&lines=Building+evidence-driven+AI+systems;Agentic+RAG+%C2%B7+LangGraph+%C2%B7+FastAPI+%C2%B7+React;From+idea+to+validated+product%2C+end+to+end" alt="Typing animation"/>
-</a>
+<!-- ======================= TYPING ANIMATION ======================= -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=100&lines=%F0%9F%94%AD+Aspiring+AI+Engineer+%7C+Building+Intelligent+Systems;%F0%9F%A7%A0+Machine+Learning+%7C+Deep+Learning+%7C+NLP+%7C+LLMs;%F0%9F%9A%80+Transforming+Ideas+into+AI-Powered+Solutions"/>
+</p>
+
+---
+
+<!-- ======================= ABOUT ME ======================= -->
+
+<img align="right" alt="AI Coding" width="360" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"/>
+
+## 🧑‍💻 About Me
+
+| | |
+|--|--|
+**Name** | Jaya Sri Vardhan Samgoju
+**Role** | Aspiring AI Engineer
+**Education** | B.Tech in Computer Science
+**Location** | India 🇮🇳
+**Passion** | Building End-to-End AI Systems
 
 <br/>
 
-<a href="https://www.linkedin.com/in/jaya-sri-vardhan-samgoju"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/></a>
-<a href="mailto:srivardhansamgoju@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-EA4335?style=flat-square&logo=gmail&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/Open%20to-Internships%20%26%20Entry--Level%20Roles-2EA043?style=flat-square"/>
-<img src="https://komarev.com/ghpvc/?username=JayaSriVardhanSamgoju&label=Profile%20Views&color=1F6FEB&style=flat-square"/>
+- 🔬 Deep diving into **Machine Learning & Deep Learning**
+- 🧠 Mastering **NLP, Transformers & Large Language Models**
+- 🏗️ Building **production-ready AI pipelines**
+- 💡 Strong believer in **fundamentals-first** approach
+- ⚡ Practicing **DSA in Java** for problem-solving skills
+- 🎯 **2025 Goal:** Land an AI Engineering role
+- 📫 Reach me at **srivardhansamgoju@gmail.com**
 
-</div>
-
----
-
-## 👨‍💻 About
-
-I am a **Computer Science undergraduate** who builds **full-stack and AI-powered products**. I like taking an unclear problem and owning it from the first line of code to final validation.
-
-My work focuses on **backend APIs, real-time systems, LLM agents and retrieval pipelines**, with a strong habit of testing, tracing and measuring what I build.
-
-| | |
-|:--|:--|
-| 🎓 **Education** | B.Tech in Computer Science & Engineering, **RGUKT Ongole** (2023 – 2027) · **CGPA 9.1 / 10** |
-| 📍 **Location** | Ongole, Andhra Pradesh, India 🇮🇳 |
-| 🔭 **Focus** | Agentic AI · RAG · LLM reliability · Production backends |
-| 🎯 **Looking for** | ML / AI / Full-Stack internships and entry-level roles |
-| 📫 **Reach me** | [srivardhansamgoju@gmail.com](mailto:srivardhansamgoju@gmail.com) |
+<br clear="right"/>
 
 ---
 
+<!-- ======================= TECH STACK ======================= -->
+## 🛠️ Tech Arsenal
+
+<details open>
+<summary><b>🧠 AI / ML / DL</b></summary>
+
+<p align="center">
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
+<img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white"/>
+<img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+<img src="https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge"/>
+</p>
+</details>
+
+<details open>
+<summary><b>📝 NLP & LLMs</b></summary>
+
+<p align="center">
+<img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black"/>
+<img src="https://img.shields.io/badge/Transformers-FF6F00?style=for-the-badge&logo=pytorch&logoColor=white"/>
+<img src="https://img.shields.io/badge/NLTK-154f3c?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/SpaCy-09A3D5?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge"/>
+</p>
+</details>
+
+<details open>
+<summary><b>⚙️ Tools & Deployment</b></summary>
+
+<p align="center">
+<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"/>
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge"/>
+</p>
+</details>
+
+<details open>
+<summary><b>💻 Programming Languages</b></summary>
+
+<p align="center">
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge"/>
+</p>
+</details>
+
+---
+
+<!-- ======================= GITHUB STATS ======================= -->
+## 📊 GitHub Analytics
+
+<p align="center">
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=JayaSriVardhanSamgoju&show_icons=true&theme=github_dark&hide_border=true&count_private=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JayaSriVardhanSamgoju&layout=compact&theme=github_dark&hide_border=true"/>
+</p>
+
+<p align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=JayaSriVardhanSamgoju&theme=github-dark-blue&hide_border=true"/>
+</p>
+
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=JayaSriVardhanSamgoju&theme=github-dark"/>
+</p>
+
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=JayaSriVardhanSamgoju&theme=algolia&no-frame=true&no-bg=true"/>
+</p>
+
+---
+
+<!-- ======================= PROJECTS ======================= -->
 ## 🚀 Featured Projects
 
-### 🔎 [IncidentLens](https://github.com/JayaSriVardhanSamgoju/IncidentLens) — Evidence-Driven Incident Investigation Platform
-
-> An AI platform that helps operators find the root cause of an incident, using evidence from logs, metrics, deployments and past incidents. Every finding keeps its source, so nothing is a black box.
-
-<img src="https://skillicons.dev/icons?i=fastapi,react,ts,vite,postgres,docker&theme=dark" alt="IncidentLens stack"/>
-
-**What it does**
-- Full-stack app: **React + TypeScript** frontend, **FastAPI** REST APIs, and **Server-Sent Events (SSE)** for live updates.
-- A stateful **LangGraph** workflow that mixes rule-based root-cause analysis with **5 specialist agents**: logs, metrics, deployments, service dependencies and historical incidents.
-- Keeps **evidence provenance** and shows **conflicting findings** instead of hiding them.
-- **Human-in-the-loop** review: `APPROVE`, `REJECT` or `REQUEST MORE EVIDENCE`.
-- Live timeline with **SSE reconnect and event replay**, typed API clients and system health monitoring.
-
-| Tests passed | End-to-end scenarios | Specialist agents |
-|:--:|:--:|:--:|
-| **312 / 312** | **15 / 15** | **5** |
-
-```mermaid
-flowchart LR
-    UI["React + TypeScript UI"] -->|"REST + SSE"| API["FastAPI"]
-    API --> G["LangGraph Orchestrator"]
-    G --> A1["Logs Agent"]
-    G --> A2["Metrics Agent"]
-    G --> A3["Deployments Agent"]
-    G --> A4["Dependencies Agent"]
-    G --> A5["History Agent"]
-    A1 & A2 & A3 & A4 & A5 --> H["Ranked Hypotheses"]
-    H --> R["Human Review: Approve / Reject / More Evidence"]
-    API <--> DB[("PostgreSQL")]
-```
+| Project | Description |
+|-------|-------------|
+🩺 **Disease Prediction Web App** | ML-based disease prediction using Streamlit deployment |
+💬 **NLP Sentiment Analyzer** | Sentiment classification using TF-IDF + ML models |
+📰 **News Topic Classifier** | Multi-class NLP classification pipeline |
+🔐 **Phishing URL Detector** | ML-based malicious URL detection system |
 
 ---
 
-### 📚 [SynoptiQ](https://github.com/JayaSriVardhanSamgoju/SynoptiQ) — Enterprise Agentic RAG & Document Intelligence Platform
+<!-- ======================= LEARNING ROADMAP ======================= -->
+## 🗺️ AI Engineering Roadmap
 
-> Ask questions about your documents and get answers backed by evidence, with **page-level citations** so you can check every claim.
-
-<img src="https://skillicons.dev/icons?i=fastapi,nextjs,postgres,redis,docker&theme=dark" alt="SynoptiQ stack"/>
-
-**What it does**
-- Multi-format document ingestion, hybrid retrieval, grounded answers and **page-level citation tracing**.
-- **LangGraph multi-agent pipeline:** query planning → hybrid retrieval → synthesis → verification.
-- **High-precision retrieval:** dense vector search + **BM25** + **Reciprocal Rank Fusion** + **HyDE** + **cross-encoder reranking**.
-- **Defense-in-depth security:** input, context and output guardrails for prompt injection, jailbreaks, PII, API-key leaks, indirect context poisoning and system-prompt leakage, with security evaluation and regression tests.
-- **Production-ready upgrades:** PostgreSQL + **pgvector**, Redis-backed ephemeral BYOK sessions, async document workers, semantic chunking, **OpenTelemetry** tracing, automated RAG evaluation and CI/CD checks.
-
-```mermaid
-flowchart LR
-    D["Documents"] --> I["Ingest + Semantic Chunking"]
-    I --> V[("pgvector + BM25 Index")]
-    Q["User Question"] --> P["Query Planner"]
-    P --> H["Hybrid Retrieval: Dense + BM25 + RRF + HyDE"]
-    V --> H
-    H --> X["Cross-Encoder Rerank"]
-    X --> S["Synthesis"]
-    S --> C["Verification"]
-    C --> O["Cited Answer"]
-    GR["Guardrails: Input / Context / Output"] -.-> P
-    GR -.-> S
-    GR -.-> O
-```
+<p align="center">
+<img src="https://mermaid.ink/img/Z3JhcGggTFIKICAgIEFbTWF0aCAmIFN0YXRzXSAtLT4gQltQeXRob24gTWFzdGVyeV0KICAgIEIgLS0-IENTW01MIER1bmRhbWVudGFsc10KICAgIEMgLS0-IERbRGVlcCBMZWFybmluZ10KICAgIEQgLS0-IEVbTkxQICYgVHJhbnNmb3JtZXJzXQogICAgRSAtLT4gRltMTE1zICYgR2VuQUldCiAgICBGIC0tPiBHW1Byb2R1Y3Rpb24gQUld" width="85%">
+</p>
 
 ---
 
-## 🛠️ Tech Stack
+<!-- ======================= CURRENT FOCUS ======================= -->
+## 🎯 What I'm Up To
+📖 Learning → Transformers Architecture Deep-Dive
+🔨 Building → LLM-Powered Q&A Application
+📝 Practicing → DSA in Java (Daily Problems)
+🎯 Goal → AI Engineer Role by 2025
 
-<table>
-<tr>
-<td width="190"><b>💻 Languages</b></td>
-<td>
-<img src="https://skillicons.dev/icons?i=py,java,cpp,c,ts,postgres&theme=dark" alt="Languages"/>
-</td>
-</tr>
-<tr>
-<td><b>⚙️ Backend & Data</b></td>
-<td>
-<img src="https://skillicons.dev/icons?i=fastapi,flask,postgres,redis&theme=dark" alt="Backend"/>
-<br/><sub>REST APIs · SQLAlchemy · SSE · pgvector</sub>
-</td>
-</tr>
-<tr>
-<td><b>🎨 Frontend</b></td>
-<td>
-<img src="https://skillicons.dev/icons?i=react,ts,vite,nextjs&theme=dark" alt="Frontend"/>
-</td>
-</tr>
-<tr>
-<td><b>☁️ Cloud & DevOps</b></td>
-<td>
-<img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,git,github,prometheus,grafana&theme=dark" alt="Cloud and DevOps"/>
-<br/><sub>CI/CD · OpenTelemetry · Monitoring</sub>
-</td>
-</tr>
-<tr>
-<td><b>🧠 AI / ML</b></td>
-<td>
-<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn&theme=dark" alt="ML"/>
-<br/><sub>LLMs · RAG · Agentic AI · LangChain · LangGraph · XGBoost</sub>
-</td>
-</tr>
-<tr>
-<td><b>🔍 Retrieval & NLP</b></td>
-<td>
-<img src="https://img.shields.io/badge/FAISS-0467DF?style=flat-square"/>
-<img src="https://img.shields.io/badge/BM25-444?style=flat-square"/>
-<img src="https://img.shields.io/badge/Embeddings-6E40C9?style=flat-square"/>
-<img src="https://img.shields.io/badge/Vector%20Search-1F6FEB?style=flat-square"/>
-<img src="https://img.shields.io/badge/Cross--Encoder%20Reranking-2EA043?style=flat-square"/>
-<img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black"/>
-</td>
-</tr>
-</table>
 
 ---
 
-## 📊 GitHub Activity
 
-<div align="center">
+<!-- ======================= SNAKE ANIMATION ======================= -->
+## 🐍 Contribution Snake
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=JayaSriVardhanSamgoju&show_icons=true&theme=github_dark&hide_border=true&count_private=true&bg_color=0D1117" alt="GitHub stats"/>
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JayaSriVardhanSamgoju&layout=compact&theme=github_dark&hide_border=true&bg_color=0D1117" alt="Top languages"/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=JayaSriVardhanSamgoju&theme=github-compact&hide_border=true&bg_color=0D1117&color=58A6FF&line=1F6FEB&point=FFFFFF" alt="Contribution graph" width="95%"/>
-
-</div>
+<p align="center">
+  <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake-dark.svg" alt="Snake animation"/>
+</p>
 
 ---
 
-## 🏆 Achievements & Certifications
-
-- 🥇 **Top 4 team**, KL University Hyderabad Hackathon, for a **GST Reconciliation** solution that improves financial data validation pipelines.
-- 🎓 **NPTEL Elite**: Foundations of Deep Learning (**81%**), an IIT-backed MOOC.
-- 🚀 **Ignite India Entrepreneurship Program**, Wadhwani Foundation.
-
----
-
-## 🧭 How I Work
-
-| Principle | What it means |
-|:--|:--|
-| **Evidence first** | Every answer or finding should point back to its source. |
-| **Test everything** | Automated tests, end-to-end checks and evaluation before I call something done. |
-| **Safe by design** | Guardrails, human review and observability are part of the build, not an afterthought. |
-| **Own the whole thing** | Design, backend, frontend, deployment and validation. |
+<!-- ======================= DAILY QUOTE ======================= -->
+<p align="center">
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" width="70%"/>
+</p>
 
 ---
 
-## 🎯 Currently
-
-- 🔨 Improving **SynoptiQ** toward production-scale (reliability, tracing, evaluation)
-- 📖 Studying **LLM reliability** and ways to reduce hallucinations
-- 🧪 Practising **DSA** and strengthening core fundamentals
-- 🎓 Final year B.Tech · Expected graduation **May 2027**
-
----
-
+<!-- ======================= CONNECT ======================= -->
 ## 🤝 Let's Connect
 
-<div align="center">
+<p align="center">
+<a href="https://www.linkedin.com/in/jaya-sri-vardhan-samgoju">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin"/>
+</a>
 
-<a href="https://www.linkedin.com/in/jaya-sri-vardhan-samgoju"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="mailto:srivardhansamgoju@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-<a href="https://github.com/JayaSriVardhanSamgoju"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+<a href="mailto:srivardhansamgoju@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail"/>
+</a>
 
-<br/><br/>
+<a href="https://github.com/JayaSriVardhanSamgoju">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+</a>
+</p>
 
-<sub>If you like my work, a ⭐ on my repositories is always appreciated.</sub>
+---
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:1F6FEB,100:58A6FF&height=110&section=footer" width="100%"/>
+<p align="center">
+<b>If you find my work helpful, consider giving a ⭐ to my repositories!</b>
+</p>
 
-</div>
+<p align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=4000&pause=2000&color=58A6FF&center=true&width=500&lines=The+best+way+to+predict+the+future+is+to+build+it.;Stay+hungry%2C+stay+foolish.;Code+Learn+Build+Repeat"/>
+</p>
+
+<!-- ======================= FOOTER ======================= -->
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=150&section=footer&animation=twinkling"/>
+</p>
